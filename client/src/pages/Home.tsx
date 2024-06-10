@@ -1,12 +1,13 @@
-import React from "react";
-import { NavBar,Hero,Sect_1 } from "../components";
+import { NavBar,Hero,Sect_1,Dev,Footer } from "../components";
 
 const Home = () => {
   return (
-    <div className="w-screen min-h-screen bg-flash_white">
+    <div className="w-screen min-h-screen bg-flash_white overflow-x-hidden">
       <NavBar />
       <Hero/>
       <Sect_1/>
+      <Dev/>
+      <Footer/>
     </div>
   );
 };

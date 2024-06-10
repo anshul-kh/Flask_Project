@@ -1,4 +1,3 @@
-import React from 'react'
 import { Hero_1,Hero_2 } from '../../assets' 
 import { Link } from 'react-router-dom'
 

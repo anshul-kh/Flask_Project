@@ -2,12 +2,12 @@ import React from 'react';
 import { Card_1, Card_2, Card_3, Card_4 } from '../minor/Cards';
 import { Card } from '..';
 
-type ItemType = {
+export type ItemType = {
     ImageComp: React.FC;
     text: string;
 }
 
-type CardDataType = ItemType[];
+export type CardDataType = ItemType[];
 
 const cardData: CardDataType = [
     {

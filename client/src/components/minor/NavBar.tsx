@@ -1,4 +1,4 @@
-import React,{useState} from 'react'
+import {useState} from 'react'
 import { Link } from 'react-router-dom'
 import { Menu, Close } from "../../assets";
 import { useLocation } from 'react-router-dom';

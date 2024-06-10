@@ -7,5 +7,7 @@ export {default as Card_SVG_1} from './svgs/card_svg_1.svg'
 export {default as Card_SVG_2} from './svgs/card_avg_2.svg'
 export {default as Card_SVG_3} from './svgs/card_svg_3.svg'
 export {default as Card_SVG_4} from './svgs/card_svg_4.svg'
+export {default as Card_SVG_5} from './svgs/lower_card_1.svg'
+export {default as Card_SVG_6} from './svgs/leetcode_stats.svg'
 
 
